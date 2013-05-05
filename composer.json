@@ -40,14 +40,7 @@
 	"require":{
 		"metamodels/bundle_translated":"*",
 		"metamodels/bundle_nontranslated":"*",
-		"metamodels/bundle_filter":"*",
-		"metamodels/attribute_checkbox":"*",
-		"metamodels/attribute_combinedvalues":"*",
-		"metamodels/attribute_country":"*",
-		"metamodels/attribute_decimal":"*",
-		"metamodels/attribute_langcode":"*",
-		"metamodels/attribute_numeric":"*",
-		"metamodels/attribute_timestamp":"*",
-		"metamodels/attribute_url":"*"
+		"metamodels/bundle_attributes":"*",
+		"metamodels/bundle_filter":"*"
 	}
 }
