@@ -38,9 +38,9 @@
 		"source":"https://github.com/MetaModels/bundle_all"
 	},
 	"require":{
-		"metamodels/bundle_translated":"*",
-		"metamodels/bundle_nontranslated":"*",
-		"metamodels/bundle_attributes":"*",
-		"metamodels/bundle_filter":"*"
+		"metamodels/bundle_translated":"~1.0",
+		"metamodels/bundle_nontranslated":"~1.0",
+		"metamodels/bundle_attributes":"~1.0",
+		"metamodels/bundle_filter":"~1.0"
 	}
 }
