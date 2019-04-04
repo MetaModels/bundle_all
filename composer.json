@@ -9,7 +9,7 @@
   ],
   "type": "metapackage",
   "homepage": "http://now.metamodel.me/",
-  "license": "LGPL-3.0+",
+  "license": "LGPL-3.0-or-later",
   "authors": [
     {
       "name": "Christian Schiffler",
@@ -31,7 +31,7 @@
     "source": "https://github.com/MetaModels/bundle_all"
   },
   "require": {
-    "metamodels/bundle_attributes": "~2.0",
-    "metamodels/bundle_filter": "~2.0"
+    "metamodels/bundle_attributes": "^2.1",
+    "metamodels/bundle_filter": "^2.1"
   }
 }
