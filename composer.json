@@ -27,12 +27,11 @@
     "email": "mail@metamodel.me",
     "issues": "https://github.com/MetaModels/bundle_all/issues",
     "wiki": "https://de.contaowiki.org/MetaModels",
-    "irc": "irc://irc.freenode.org/contao.mm",
     "source": "https://github.com/MetaModels/bundle_all"
   },
   "require": {
-    "metamodels/core": "^2.2",
-    "metamodels/bundle_attributes": "^2.2",
-    "metamodels/bundle_filter": "^2.2"
+    "metamodels/core": "^2.3",
+    "metamodels/bundle_attributes": "^2.3",
+    "metamodels/bundle_filter": "^2.3"
   }
 }
